@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/wtf.unity
+- path: Assets/helloWorld.unity
   isLoaded: 1
   isActive: 1
