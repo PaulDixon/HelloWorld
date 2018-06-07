@@ -568,11 +568,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: HelloWorld
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\vr-user\Documents\pd_dev\GitHubRepo\HelloWorld\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 80ef4695791dd501
   metroApplicationDescription: HelloWorld
   wsaImages: {}
   metroTileShortName: 
